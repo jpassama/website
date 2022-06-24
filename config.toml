@@ -1,4 +1,4 @@
 baseURL = "http://jpassama.github.io/website/"
 languageCode = "en-us"
 title = "Ceci est un test"
-theme = "aether"
+theme = "ananke"
